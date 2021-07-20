@@ -1,0 +1,1 @@
+This is a test file for creating a text file by using commands on git bash.
